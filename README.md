@@ -3,7 +3,7 @@ I am a third-year computer science student at the University of Maryland, Colleg
 
 ## 🌱 I’m currently learning
 * ⚙️ How to build a compiler with Racket and a86 Assembly
-* 🤖 Exploring Machine Learning
+* 🤖 Exploring Machine Learning with Python, NumPy, Pandas, Scikit-Learn, and Scipy
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wyland) 
