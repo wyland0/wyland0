@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third-year computer science student at the University of Maryland, College Park. Passionate about all aspects of coding, but specifically about building something that makes people's lives easier!
+I am a fourth-year computer science student at the University of Maryland, College Park. Passionate about all aspects of coding, but specifically about building something that makes people's lives easier!
 
 ## 🌱 I’m currently learning
 * ⚙️ How to build a compiler with Racket and a86 Assembly
